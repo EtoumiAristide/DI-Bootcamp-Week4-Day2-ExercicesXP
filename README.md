@@ -1,4 +1,4 @@
-# Week4Day2Xp
+# Week4-Day2-ExercicesXPGold
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.4.
 
