@@ -1,0 +1,13 @@
+<header>Liste des Produits</header>
+
+<table>
+    <th>Nom</th>
+    <th>Price</th>
+    <tr *ngFor="let product of Products" [ngClass]="ProductColor(product.prix)">
+        <td appBoldDirective>{{product.nom}}</td>
+        <td>{{product.prix | currency}}</td>
+    </tr>
+    
+</table>
+
+<button routerLink="">Accueil </button>

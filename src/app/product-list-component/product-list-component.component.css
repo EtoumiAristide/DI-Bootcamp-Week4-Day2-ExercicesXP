@@ -1,0 +1,36 @@
+header {
+    background-color: green;
+    padding: 10px;
+    text-align: center;
+    font-size: 20px;
+    text-transform: uppercase;
+    color: white;
+}
+
+table {
+    border: 2px solid black;
+    width: 30%;
+    margin-left: 35%;
+    margin-top: 20px;
+}
+
+.highlightDirective {
+    background-color: orange;
+    color: red;
+}
+
+.color {
+    color: blue;
+}
+
+button {
+    margin-top: 20px;
+    font-size: 20px;
+    width: 20%;
+    margin-left: 40%;
+    border-radius: 5px;
+    background-color: dodgerblue;
+    border: none;
+    height: 50px;
+    color: white;
+}
